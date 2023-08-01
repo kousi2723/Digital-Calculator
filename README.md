@@ -3,7 +3,7 @@ This is an extremely simple calculator I made while learning C++.
 
 Download the repo, compile and run it:
 
-$git clone https://github.com/christopher-siewert/cpp-calculator.git
+$git clone 
 $cd cpp-calculator
 $make
 For Windows users, I included my Code::Blocks project file, Calculator.cbp. Open this with the Code::Blocks IDE.
